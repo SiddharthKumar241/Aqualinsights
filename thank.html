@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thank You!</title>
+    <link rel="shortcut icon" href="./thankyou.jpg" type="image/x-icon">
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(45deg, #a1ffce, #faffd1);
+            font-family: Arial, sans-serif;
+            margin: 0;
+            overflow: hidden;
+        }
+        .container {
+            text-align: center;
+            opacity: 0;
+            transform: translateY(50px);
+            animation: fadeInUp 1.5s ease-out forwards;
+        }
+        h1 {
+            font-size: 3rem;
+            color: #2c3e50;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        p {
+            font-size: 1.5rem;
+            color: #34495e;
+            margin-top: 10px;
+            opacity: 0;
+            animation: fadeIn 2s ease-in forwards 1.5s;
+        }
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        &nbsp;&nbsp;<h1>Thank You! 🎉</h1>
+        <p>Project Made By </p>
+        <p>Siddharth Goutam Kumar (23BIT0268)</p>
+        <p>Vedansh Gupta (23BIT0236)</p>
+        <p>Toshita Srivastava (23BIT0401)</p>
+        <p>Raghav (23BIT0436)</p>
+    </div>
+</body>
+</html>
