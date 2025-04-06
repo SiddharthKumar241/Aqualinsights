@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://kumarsiddharth166:DarkSister@clusterone.bqlr6.mongodb.net/waterDB", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb+srv://.bqlr6.mongodb.net/waterDB", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 }).then(() => {
