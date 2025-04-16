@@ -88,6 +88,20 @@ Push to the branch (git push origin feature-name)
 
 Open a pull request ✅
 
+Screenshots:
+
+![image](https://github.com/user-attachments/assets/c9692946-4894-4912-8c79-eb4fc3a32fb0)
+
+![image](https://github.com/user-attachments/assets/f8489f21-077c-4de6-b642-ce024453caab)
+
+![image](https://github.com/user-attachments/assets/d8fffe35-fcdf-4e75-9ec4-cee6b854a492)
+
+![image](https://github.com/user-attachments/assets/5116d5d1-7f9d-4430-bff4-88e63b460979)
+
+
+
+
+
 📬 Contact
 Developer: Siddharth Kumar
 📧 Email: kumarsiddharth166@gmail.com
