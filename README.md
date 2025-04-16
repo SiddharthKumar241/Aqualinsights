@@ -90,15 +90,14 @@ Open a pull request ✅
 
 Screenshots:
 
-![image](https://github.com/user-attachments/assets/c9692946-4894-4912-8c79-eb4fc3a32fb0)
 
-![image](https://github.com/user-attachments/assets/f8489f21-077c-4de6-b642-ce024453caab)
+![Screenshot 2025-04-16 184321](https://github.com/user-attachments/assets/3c8b8a53-401c-465e-9edb-6814912f17ec)
 
-![image](https://github.com/user-attachments/assets/d8fffe35-fcdf-4e75-9ec4-cee6b854a492)
+![Screenshot 2025-04-16 184508](https://github.com/user-attachments/assets/88409f15-5412-4278-a559-94f0dafd3e2e)
 
-![image](https://github.com/user-attachments/assets/5116d5d1-7f9d-4430-bff4-88e63b460979)
+![Screenshot 2025-04-16 184529](https://github.com/user-attachments/assets/acd2855f-e05d-48f9-926d-82606d433313)
 
-
+![Screenshot 2025-04-16 184555](https://github.com/user-attachments/assets/0d2ce14b-3111-48ff-af6c-ae750d07978e)
 
 
 
